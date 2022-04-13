@@ -16,7 +16,6 @@
 
 <script>
 import ModalComp from './components/ModalComp.vue'
-// import { ref } from 'vue'
 
 export default {
   name: 'App',
